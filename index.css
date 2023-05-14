@@ -1,0 +1,215 @@
+body {
+  background: url(bg1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+.bg2 {
+  background: url(bg2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.bg3 {
+  background: url(bg3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.bg4 {
+  background: url(bg4.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+button {
+  background-color: #1C1C1C; 
+  border-radius: 25px; 
+  padding: 6px;
+  margin-top: 6px;
+  width: 90px;
+}
+
+button a {
+  text-decoration: none;
+  color: #CDCDD5; 
+  font-weight: bold; 
+  font-size: 15px;
+}
+
+.b1:hover {
+  background-color: #3C3B47;
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 450px;
+  display: inline-block;
+}
+
+.nav-menu li {
+  float: left;
+  position: relative;
+}
+
+.nav-menu li a {
+  display: block;
+  padding: 15px;
+  color: #fff;
+  text-decoration: none;
+  cursor: default;
+}
+
+.nav-menu li:hover {
+  background-color: #555;
+  border-radius: 25px;
+}
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #333;
+  display: none;
+}
+
+.nav-menu li:hover .dropdown {
+  display: block;
+  border-radius: 10px;
+}
+
+.dropdown li {
+  display: block;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50pt;
+  color: #575358;
+  text-align: center;
+  text-shadow: 3px 1px #9298CE;
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+
+.phome {
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 1px #000000;
+  margin-bottom: 40px;
+}
+
+.services {
+  color: white;
+  font-size: 15pt;
+  text-align: center;
+  text-shadow: 2px 1px #000000;
+}
+
+.hservices {
+  color: #009ED6;
+  font-size: 25pt;
+  text-align: center;
+  text-shadow: 2px 1px #000000;
+}
+
+.pservices1 {
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 1px #000000;
+}
+
+.pservices2 {
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 1px #000000;
+}
+
+h4 {
+  color: #009ED6;
+  font-size:  18pt;
+  text-align: center;
+  text-shadow: 2px 1px #000000;
+}
+.servicesdd {
+  color: white;
+  font-size:  15pt;
+  text-align: left;
+  text-shadow: 2px 1px #000000;
+}
+
+.footer {
+  background-color: #B2B2B2;
+  padding: 10px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.about1 {
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 1px black;
+}
+
+.about2 {
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 1px black;
+}
+
+.divlist {
+  text-align: center;
+  color: white;
+  font-size: 15pt;
+  margin-bottom: 70px;
+  text-shadow: 2px 1px black;
+}
+
+.contact {
+  color: white;
+  font-size: 30pt;
+  text-align: center;
+  text-shadow: 2px 1px black;
+}
+
+.pcontact1 {
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 1px black;
+}
+
+.pcontact2 {
+  color: white;
+  font-size: 15pt;
+  text-align: center;
+  text-shadow: 2px 1px black;
+}
